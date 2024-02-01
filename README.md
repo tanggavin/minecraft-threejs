@@ -1,10 +1,10 @@
 # minecraft-threejs
 
-English ｜ [中文](https://github.com/vyse12138/minecraft-threejs/blob/main/README_ZH.md)
+English ｜ [中文](https://github.com/tanggavin/minecraft-threejs/blob/master/README_ZH.md)
 
 Minecraft clone made with Three.js and TypeScript
 
-Check it out: [Minecraft - Three.js](https://mc.yulei.me/)
+Check it out: [Minecraft - Three.js](https://minecraft-threejs-eta.vercel.app/)
 
 Recommend to use Chrome to get the best experience
 
