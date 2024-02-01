@@ -1,10 +1,10 @@
 # minecraft-threejs
 
-中文 | [English](https://github.com/vyse12138/minecraft-threejs)
+中文 | [English](https://github.com/tanggavin/minecraft-threejs)
 
 基于 Three.js 和 TypeScript 的网页版我的世界
 
-试玩：[Minecraft - Three.js](https://mcz.yulei.me)
+试玩：[Minecraft - Three.js](https://minecraft-threejs-eta.vercel.app/)
 
 建议使用 Chrome 来获得最佳的体验
 
